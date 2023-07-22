@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.5in" height="2in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3500 2000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="399" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Agency FB">
+		<font-face-src>
+			<font-face-name name="Agency FB"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="$" horiz-adv-x="414" d="M356 60.6671c-0.334211,-37.8346 -25.6655,-56.6659 -76.0002,-56.6659 -5.50043,0 -13.1654,0.165544 -23.0012,0.499755 -9.83268,0.331088 -16.8324,0.499755 -20.9991,0.499755l0 -64.9994 -58.9992 0 0 64.9994c-3.83249,0 -10.6666,-0.168667 -20.4993,-0.499755 -9.8358,-0.334211 -17.3352,-0.499755 -22.5015,-0.499755 -50.3347,0 -75.666,18.8314 -76.0002,56.6659l0 187.333 68.001 0 0 -185.999 51 0 0 314.833 -96.9993 119.167c-14.6678,18.1661 -22.0017,37.3317 -22.0017,57.6655l0 148.668c0.165544,38.8341 25.5,58.1652 76.0002,58.1652 5.16622,0 12.6657,-0.331088 22.5015,-0.830842 9.83268,-0.499755 16.6668,-0.668422 20.4993,-0.668422l0 64.9994 58.9992 0 0 -64.9994c4.16671,0 11.1664,0.168667 20.9991,0.668422 9.8358,0.499755 17.5008,0.830842 23.0012,0.830842 50.5002,0 75.8347,-19.3311 76.0002,-58.1652l0 -170.332 -68.001 0 0 169.998 -51.9995 0 0 -294.999 97.9988 -118.501c14.6678,-17.8319 22.0017,-36.6664 22.0017,-56.8315l0 -171zm-179 415.165l0 226.167 -51 0 0 -161.165 51 -65.0025zm110.999 -413.831l0 182.998 -51.9995 63.0003 0 -245.998 51.9995 0z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="I" horiz-adv-x="277" d="M92.9988 0l0 716.001 95.0023 0 0 -716.001 -95.0023 0z"/>
+   <glyph unicode="X" horiz-adv-x="666" d="M4.33244 0l276.668 371.498 -243.664 344.499 112.828 0 130.505 -183.162c27.1619,-38.0038 45.9955,-67.0007 56.832,-87.1699 16.1679,25.0011 35.1644,51.6689 57.0003,79.8352l142.998 190.497 103.832 0 -248.664 -340.33 267.666 -375.668 -116.335 0 -180.665 255.331c-10.3316,14.5012 -20.1637,29.0023 -29.3335,43.3352 -15.9996,-24.0021 -27.3302,-40.8324 -34.3337,-50.3333l-181.501 -248.333 -113.832 0z"/>
+   <glyph unicode="Y" horiz-adv-x="666" d="M278.833 0l0 303.332 -275.998 412.667 113.999 0 141.5 -216.665c26.3321,-40.1677 50.8321,-80.3353 73.1657,-120.5 21.8351,37.5003 48.3343,79.5001 79.1661,126.167l138.668 210.999 110.499 0 -286 -412.667 0 -303.332 -95.0008 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Agency FB";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke-width:9.58;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:#373435;stroke-width:20.83;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str2 {stroke:#373740;stroke-width:6.94;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil1 {fill:none}
+    .fil0 {fill:#1A1A1A}
+    .fnt3 {font-weight:normal;font-size:725.17px;font-family:'Arial'}
+    .fnt2 {font-weight:normal;font-size:1260.46px;font-family:'Agency FB'}
+    .fnt1 {font-weight:normal;font-size:1508.44px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:1574.02px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1704054855616">
+   <g>
+    <g transform="matrix(0.811422 0 0 1 -141.334 528.376)">
+     <text x="1750" y="1000"  class="fil0 fnt0">I</text>
+    </g>
+    <g transform="matrix(0.73479 0 0 1 -190.725 489.247)">
+     <text x="1750" y="1000"  class="fil0 fnt1">Y</text>
+    </g>
+   </g>
+   <g transform="matrix(1.30351 0 0 1 -708.815 873.632)">
+    <text x="1750" y="1000"  class="fil0 fnt2">$</text>
+   </g>
+   <g>
+    <line class="fil1 str0" x1="2174.59" y1="394.07" x2="2180.56" y2= "24.27" />
+    <g transform="matrix(-0.0109499 -0.659477 0.683304 -0.0105681 1693.58 1535.64)">
+     <text x="1750" y="1000"  class="fil0 str2 fnt3">X</text>
+    </g>
+    <g transform="matrix(-0.0109499 -0.659477 0.683304 -0.0105681 1693.58 1535.64)">
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
